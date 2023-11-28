@@ -54,3 +54,7 @@ identify_potential_drugs_by_feature(Feature) :-
 
 % To identify potential drugs with a specific chemical feature
 % Usage: identify_potential_drugs_by_feature(statin).
+
+%Drug discovery involves the identification of potential drug candidates that can 
+%effectively treat a specific disease. We have analyzed chemical structures and predicted
+%their biological activities. 
